@@ -1,5 +1,4 @@
 # imagespark
-Some code examples for ImageSaprk
 
 Папка Chat - самописный чат. Работает с помощью широковещания, очереди в Redis и Laravel Echo Server.
 
